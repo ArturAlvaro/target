@@ -75,10 +75,10 @@ Você ficou responsável pela parte da estrutura de banco de dados que será usa
 >R) A questão quer saber quem estará mais próximo da cidade de Ribeirão Preto quando ambos os veículos se cruzarem e não leva em consideração o tempo que demoram, sendo assim a resposta é que quando se cruzarem o carro estará mais próximo.
 
 A soma das distâncias é 125km, usando a fórmula temos:
-distanciaDoCarro = velocidadeCarro / velocidadeCarro + velocidadeCaminhao x distancia
-distanciaCarro = 90 / 90 + 80 x 125 = 66,18 km
+distanciaDoCarro = velocidadeCarro / velocidadeCarro + velocidadeCaminhao x distancia<br>
+distanciaCarro = 90 / 90 + 80 x 125 = 66,18 km<br>
 
-distanciaCaminhao = velocidadeCaminhao / velocidadeCarro + velocidadeCaminhao x distancia
-distanciaCaminhao = 80 / 90 + 80 x 125 = 58,82 km 
+distanciaCaminhao = velocidadeCaminhao / velocidadeCarro + velocidadeCaminhao x distancia<br>
+distanciaCaminhao = 80 / 90 + 80 x 125 = 58,82 km <br>
 
 Sendo assim, quando se encontrarem, o carro estará mais próximo da cidade de Ribeirão Preto.
